@@ -4,15 +4,15 @@
 #
 # The tests will guide your construction.
 #
-# PORTION_1 = {
-#   label: "Kingdom",
-#   sub_category: {
-#     label: "Phylum",
-#     sub_category: {
-#       label: "Class"
-#     }
-#   }
-# }
+PORTION_1 = {
+   LABEL: "KINGDOM",
+   SUB_CATEGORY: {
+     LABEL: "PHYLUM",
+     SUB_CATEGORY: {
+       LABEL: "CLASS"
+     }
+   }
+ }
 # 
 # PORTION_2 = {
 #   label: "Order"
